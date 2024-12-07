@@ -1,5 +1,5 @@
-wiersze=20
-kolumny=20
+rows=20
+colums=20
 duck_sign=D
 car_sign=#
 point_sign=*
